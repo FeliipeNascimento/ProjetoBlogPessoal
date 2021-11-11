@@ -30,3 +30,6 @@ ul.social-network li{
 .fa-instagram:hover{
     color: crimson;
 }
+.container-fluid{
+    background-color: gray;
+}
